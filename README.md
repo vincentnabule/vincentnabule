@@ -1,7 +1,10 @@
 # Vincent Nabule.
 Hello there 👋, I'm Vincent Nabule a system and web developer based in Nairobi Kenya.
 
-## Skills
+## Skills.
+* ~ HTML, CSS, Javascript.
+* ~ PHP.
+* ~ Java.
 <!--##Skills.
 *~ Html, CSS, Javascript.
 *~ PHP.
