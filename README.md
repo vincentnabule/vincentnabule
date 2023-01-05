@@ -7,7 +7,7 @@ Hello there 👋, I'm Vincent Nabule a system and web developer based in Nairobi
 ~ HTML, CSS, Javascript.
 ~ PHP.
 ~ Java.
-~ Bootstrap, JQuery, Laravel, Code Ignitor.
+<!-- ~ Bootstrap, JQuery, Laravel, Code Ignitor.-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentnabule)](https://github.com/anuraghazra/github-readme-stats)
 
