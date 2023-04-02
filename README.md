@@ -28,4 +28,4 @@ Hello there 👋, I'm Vincent Nabule a system and web developer based in Nairobi
 <!-- -->
 ![Judo Website](https://github.com/vincentnabule/vincentnabule/blob/main/Screenshot%20from%202023-04-03%2000-13-54.png)
 <!-- -->
-![https://github.com/vincentnabule/vincentnabule/blob/main/Screenshot%20from%202023-04-03%2000-13-54.png]
+2. [Tips Selling Site](https://johekaclassictips.co.ke)
