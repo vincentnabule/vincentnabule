@@ -25,5 +25,7 @@ Hello there 👋, I'm Vincent Nabule a system and web developer based in Nairobi
 
 # Projects Involved.
 1. [K.U Spears Judo Club Website ](http://kuspearsjudoclub.com/)
-![Judo Website](Screenshot from 2023-04-03 00-13-54.png)
+<!-- -->
+![Judo Website](https://github.com/vincentnabule/vincentnabule/blob/main/Screenshot%20from%202023-04-03%2000-13-54.png)
+<!-- -->
 ![https://github.com/vincentnabule/vincentnabule/blob/main/Screenshot%20from%202023-04-03%2000-13-54.png]
