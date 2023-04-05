@@ -13,8 +13,7 @@ Hello there 👋, I'm Vincent Nabule a system and web developer based in Nairobi
 <!-- -->
 ~ Core Java.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeFama&&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[GitHub streak stats](https://streak-stats.demolab.com/?user=vincentnabule)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeFama&&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)![GitHub streak stats](https://streak-stats.demolab.com/?user=vincentnabule)
 <!-- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeFama&&show_icons=true&theme=dark
  https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vincentnabule&&show_icons=true&theme=radical
 -->
@@ -27,7 +26,7 @@ Hello there 👋, I'm Vincent Nabule a system and web developer based in Nairobi
 <!-- -->
 
 # Projects Involved.
-1. [FootBall Betting Tips Selling Site](https://johekaclassictips.co.ke)
+1. [Football Betting Tips Selling Site](https://johekaclassictips.co.ke)
 <!-- -->
 ![Joheka](https://github.com/vincentnabule/vincentnabule/blob/main/Screenshot%20from%202023-04-03%2000-28-04.png)
 <!-- -->
