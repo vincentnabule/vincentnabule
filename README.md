@@ -28,11 +28,7 @@ Hello there 👋, I'm Vincent Nabule a system and web developer based in Nairobi
 <!-- -->
 
 # Projects Involved.
-1. [Football Betting Tips Selling Site](https://johekaclassictips.co.ke)
+1. [Football Betting Tips Site](https://bettingoddsinternational.co.ke/)
 <!-- -->
 ![Joheka](https://github.com/vincentnabule/vincentnabule/blob/main/Screenshot%20from%202023-04-03%2000-28-04.png)
-<!-- -->
-2. [K.U Spears Judo Club Website ](http://kuspearsjudoclub.com/)
-<!-- -->
-![Judo Website](https://github.com/vincentnabule/vincentnabule/blob/main/Screenshot%20from%202023-04-03%2000-13-54.png)
 <!-- -->
