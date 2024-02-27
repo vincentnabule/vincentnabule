@@ -4,10 +4,14 @@ Hello there 👋, I'm Vincent Nabule a system and web developer based in Nairobi
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vincentnabule&show_icons=true&theme=radical)
 
 
-<div align="center">[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,jquery,bootstrap)](https://skillicons.dev)</div>
-## Languages and FrameWorks
+<div align="center"> Languages and FrameWorks</div>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+<p align="center">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
