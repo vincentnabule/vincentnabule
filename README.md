@@ -3,16 +3,10 @@ Hello there 👋, I'm Vincent Nabule a system and web developer based in Nairobi
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vincentnabule&show_icons=true&theme=radical)
 ## Skills And Knowledgebase.
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,jquery,java)](https://skillicons.dev)
-~ HTML, CSS, Javascript.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,jquery,bootstrap)](https://skillicons.dev)
+<-- -->
+[![My Skills](https://skillicons.dev/icons?i=php,java,laravel,codeigniter)](https://skillicons.dev)
 <!-- -->
-~ Bootstrap.
-<!-- -->
-~ JQuery.
-<!-- -->
-~ Php.
-<!-- -->
-~ Core Java.
 
 <!--
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeFama&&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
