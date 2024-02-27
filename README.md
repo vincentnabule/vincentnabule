@@ -5,7 +5,7 @@ Hello there 👋, I'm Vincent Nabule a system and web developer based in Nairobi
 
 <h1 align="center">Languages and Frameworks </h1>
 <br>
-<div align="center">![My Skills](https://skillicons.dev/icons?i=html,css,js,php,jquery,bootstrap)](https://skillicons.dev)</div>
+<div align="center">[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,jquery,bootstrap)](https://skillicons.dev)</div>
 
 <--  <div align="center"></div> -->
 [![My Skills](https://skillicons.dev/icons?i=php,java,laravel,codeigniter)](https://skillicons.dev)
