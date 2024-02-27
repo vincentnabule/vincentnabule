@@ -22,6 +22,7 @@ Hello there 👋, I'm Vincent Nabule a system and web developer based in Nairobi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentnabule&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!-- [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)-->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=vincentnabule) 
 
