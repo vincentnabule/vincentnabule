@@ -7,12 +7,12 @@ Hello there 👋, I'm Vincent Nabule a system and web developer based in Nairobi
 <h1 align="center"> Languages and FrameWorks</h1>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery," />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery," />
   </a>
 </p>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=php,java,laravel,mysql,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=php,java,js,laravel,mysql,git,github,gitlab" />
   </a>
 </p>
 
