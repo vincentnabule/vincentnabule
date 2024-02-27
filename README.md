@@ -12,7 +12,7 @@ Hello there 👋, I'm Vincent Nabule a system and web developer based in Nairobi
 </p>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=php,java,js,laravel,mysql,git,gitlab&perline=4" />
+    <img src="https://skillicons.dev/icons?i=php,java,js,laravel,mysql,git,gitlab&perline=8" />
   </a>
 </p>
 
