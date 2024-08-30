@@ -7,7 +7,7 @@ Hello there 👋, I'm Vincent Nabule a FullStack web developer based in Nairobi,
 <h1 align="center"> Languages and FrameWorks</h1>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,vue&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,vue&perline=5" />
   </a>
 </p>
 <p align="center">
