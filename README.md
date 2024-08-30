@@ -1,5 +1,5 @@
 # Vincent Nabule.
-Hello there 👋, I'm Vincent Nabule a system and web developer based in Nairobi Kenya.
+Hello there 👋, I'm Vincent Nabule a FullStack web developer based in Nairobi, Kenya.
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vincentnabule&show_icons=true&theme=radical)
 
