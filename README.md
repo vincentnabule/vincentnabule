@@ -36,6 +36,9 @@ Hello there 👋, I'm Vincent Nabule a FullStack web developer based in Nairobi,
 # Projects Involved.
 1. [Elite Solutions](https://elitetech.co.ke/)
 <!-- -->
-![Joheka](https://github.com/vincentnabule/vincentnabule/blob/main/Screenshot%20from%202023-04-03%2000-28-04.png)
+![Elite](https://github.com/vincentnabule/vincentnabule/blob/main/Elite.jpg)
 <!-- -->
-1. [Daylight Beauty KE](https://daylightbeauty.com/)
+2. [Daylight Beauty KE](https://daylightbeauty.com/)
+<!-- -->
+![Daylight](https://github.com/vincentnabule/vincentnabule/blob/main/Daylight.jpg)
+<!-- -->
